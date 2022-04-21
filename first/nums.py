@@ -12,3 +12,4 @@ def minus(a, b):
 print(plus(2, 2))
 print(minus(3, 2))
 print(multi(3, 4))
+print("Hallo")
